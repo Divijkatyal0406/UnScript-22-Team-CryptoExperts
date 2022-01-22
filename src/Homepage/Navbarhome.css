@@ -1,0 +1,35 @@
+
+
+.btn {
+  background-color: #ff7878;
+  color: white;
+  margin: 5px;
+}
+
+.navbar {
+  background-color: #24A19C;
+  margin: 0.5%;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.2);
+}
+.navbar-brand {
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: x-large;
+}
+.nav-img {
+  margin-left: 1px;
+  height: 40px;
+  width: 30px;
+}
+.img-container {
+  padding: 3px;
+}
+.navbar-light .navbar-brand {
+    color: white;
+   
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}
