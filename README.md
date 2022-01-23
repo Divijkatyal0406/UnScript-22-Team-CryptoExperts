@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# Course Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository showcases the work done by Team CryptoExperts in the Unscript Rookie's Hackathon 2022(Web Domain)
 
-## Available Scripts
+## Problem Statement
 
-In the project directory, you can run:
+We need to make a course managemnt system in this 24hr hackathon which allows teachers to upload course materials that they will be teaching via recorded video lectures and notes. The portal also allows students to examine the courses and purchase them on the website if they choose to pursue them. They can view and begin learning their chosen courses after the purchase is complete. Any doubts, suggestions, or comments from students can be submitted to the course teacher. We were required to create 2 seperate dashboards for teachers and students.
 
-### `npm start`
+### Team Members
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Priyansh Rastogi
+* Harsh Jaisawal
+* Divij Katyal
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `Tech Stack`
 
-### `npm test`
+* Front-end Design :- HTML, CSS, javascript, bootstrap, Reactjs
+* Back-end :- Celo Blockchain, Nodejs
+* Database :- MongoDB
+* Others :- Metamask, Truffle suite, Mongoose, Razorpay API
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Services for students
+Students are able to buy up the courses, access the course material and provide the feedback for the particular course that is then shared with the respective teacher.
 
-### `npm run build`
+### Services for techers
+Teachers can register themself on the platform and add the course material that will stored on IPFS blockchain which will allow only the person having CID(content identifier) to download the course and this dashboard entirely runs on CELO network to provide traceability and can prevent plagiarism.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Screenshots
