@@ -9,7 +9,7 @@ We need to make a course managemnt system in this 24hr hackathon which allows te
 ### Team Members
 
 * Priyansh Rastogi
-* Harsh Jaisawal
+* Harsh Jaiswal
 * Divij Katyal
 
 ### `Tech Stack`
@@ -23,6 +23,9 @@ We need to make a course managemnt system in this 24hr hackathon which allows te
 Students are able to buy up the courses, access the course material and provide the feedback for the particular course that is then shared with the respective teacher.
 
 ### Services for techers
-Teachers can register themself on the platform and add the course material that will stored on IPFS blockchain which will allow only the person having CID(content identifier) to download the course and this dashboard entirely runs on CELO network to provide traceability and can prevent plagiarism.
+Teachers can register themself on the platform and add the course material that will stored on IPFS blockchain which will allow only the person having CID(content identifier) to download the course and this dashboard entirely runs on CELO network to provide traceability and thus can prevent plagiarism upto a large extent.
 
-## Screenshots
+## Screenshots for Teacher's Dashboard
+![](Screenshot%202022-01-23%20141922.png)
+![](Screenshot%202022-01-23%20142005.png)
+![](Screenshot%202022-01-23%20142058.png)
